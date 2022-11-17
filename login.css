@@ -1,0 +1,20 @@
+body{background-color: bisque;}
+
+#f-password{
+    padding-left: 2em;
+}
+a{text-decoration: none;}
+li{
+    display: inline-block;
+    text-align: center;
+}
+.headtag{
+    text-align: center;
+
+}
+form h1{
+    text-align: center;
+}
+hr{
+        width: 5px;
+    }
